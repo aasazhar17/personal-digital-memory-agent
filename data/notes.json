@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "EMI Monthly Schedule",
+        "content": "EMI auto-debit date: 10th of every month.",
+        "created_at": "2026-06-23 13:43:06"
+    },
+    {
+        "id": 2,
+        "title": "Goa Trip Dates",
+        "content": "Goa trip dates: February 10 to February 15, 2026. Travelled with friends.",
+        "created_at": "2026-06-23 13:43:06"
+    }
+]

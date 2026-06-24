@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Goa trip flight and hotel bookings",
+        "amount": 25000.0,
+        "date": "2026-02-10",
+        "category": "Travel"
+    },
+    {
+        "id": 2,
+        "description": "Electricity bill payment",
+        "amount": 3500.0,
+        "date": "2026-03-01",
+        "category": "Utilities"
+    }
+]

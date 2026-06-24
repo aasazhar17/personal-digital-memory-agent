@@ -1,0 +1,50 @@
+{
+    "sliding_memory": {
+        "window_size": 5,
+        "messages": [
+            {
+                "role": "user",
+                "content": "now this month last date of emi"
+            },
+            {
+                "role": "assistant",
+                "content": "Your EMI payment date is the **10th of every month**."
+            },
+            {
+                "role": "user",
+                "content": "How much money did I spend after my Goa trip?"
+            },
+            {
+                "role": "assistant",
+                "content": "Your Goa trip concluded on **2026-02-10**. According to your expenses, the total spent after your trip was **\u20b93,500**.\n\nHere are the transaction details:\n- **Electricity bill payment**: \u20b93,500.0 (2026-03-01)\n"
+            },
+            {
+                "role": "user",
+                "content": "tell me something about myself"
+            },
+            {
+                "role": "assistant",
+                "content": "Tell Me Lies  is an American drama television series created by Meaghan Oppenheimer, based on the 2018 novel of the same name by Carola Lovering. The series was released on Hulu on September 7, 2022. It stars Grace Van Patten, Jackson White, Catherine Missal, Spencer House, Sonia Mena, Branden Cook, Benjamin Wadsworth, Alicia Crowder, and Tom Ellis. The series follows a relationship between Lucy Albright and Stephen DeMarco as it unfolds over the course of eight years after meeting at college. In November 2022, the series was renewed for a second season, which premiered on September 4, 2024. In December 2024, the series was renewed for a third season which premiered on January 13, 2026. The series finale was released on February 17, 2026."
+            },
+            {
+                "role": "user",
+                "content": "what information persent  in electric bill pdf"
+            },
+            {
+                "role": "assistant",
+                "content": "Based on your personal digital memory records:\n\n\ud83d\udcc4 **From Uploaded Documents:**\n- Electricity Bill Details. Month: March 2026. Total Amount Due: INR 3500. Account: 928374. (Source: *electricity_bill.pdf*, Page 1)\n- Electricity Bill Consumer Number: 928374 Billing Month: March 2026 Total Amount Due: \u25a03,500 (Source: *electricity_bill_sample.pdf*, Page 1)"
+            },
+            {
+                "role": "user",
+                "content": "When was my MRI report?"
+            },
+            {
+                "role": "assistant",
+                "content": "Your MRI report was done on **January 18, 2026** and the scan showed normal results."
+            }
+        ]
+    },
+    "summary_memory": {
+        "summary": "Summary of earlier chat history:\n- User: what is my name\n- Assistant: Your name is **Azhar**.\n- User: What was my Goa trip budget?\n- Assistant: Your Goa trip budget was **\u20b925,000**.\n- User: my name is azhar\n- Assistant: Okay, I've saved that in my memory! I will remember that your name is **azhar**.\n- User: my name is tushar\n- Assistant: Okay, I've saved that in my memory! I will remember that your name is **tusha...\n- User: what is my name\n- Assistant: Your name is **tushar**.\n- User: flight\n- Assistant: Flight or flying is the motion of an object through an atmosphere or through ...\n- User: which date i go to goa\n- Assistant: Based on your personal digital memory records:\n\n\ud83d\udcdd **From Notes:**\n- Goa trip ...\n- User: passnager  name\n- Assistant: I couldn't find any relevant personal records or general knowledge details fo...\n- User: when i go goa flight what is the price\n- Assistant: Based on your personal digital memory records:\n\n\ud83d\udcb0 **From Expenses:**\n- Goa tr...\n- User: last date of emi\n- Assistant: Your EMI payment date is the **10th of every month**."
+    }
+}
