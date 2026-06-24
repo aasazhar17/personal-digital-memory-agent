@@ -94,7 +94,6 @@ Stores:
 
 ## 👨‍💻 Author
 
-Azhar Ali 
-Roll No 2401730134
-B.Tech CSE (AI & ML)  Sec- B
+Azhar Ali  
+B.Tech CSE (AI & ML)  
 K.R. Mangalam University
